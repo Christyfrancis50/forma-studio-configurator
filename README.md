@@ -1,5 +1,7 @@
 # Forma Studio — 3D Product Configurator
 
+**Live demo: [forma-studio-configurator.vercel.app](https://forma-studio-configurator.vercel.app)**
+
 A real-time product configurator built with **React Three Fiber**. Orbit a sneaker, a lounge chair or a sports car and restyle every part live — materials and colours ease between states, and the price updates as you go.
 
 ## Features
